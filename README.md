@@ -1,4 +1,4 @@
-# hyperliquid-ohlc
+# Stream HyperLiquid OHLC in Real-time
 
 Real-time OHLC streamer for [Hyperliquid](https://hyperliquid.xyz) using the WebSocket candle feed.
 
