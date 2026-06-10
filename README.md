@@ -7,7 +7,7 @@ Subscribes to Hyperliquid's built-in `candle` stream, accumulates progressive sn
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/hyperliquid-ohlc-parser.git
+git clone https://github.com/divyn/hyperliquid-ohlc-parser.git
 cd hyperliquid-ohlc-parser
 python -m venv .venv
 source .venv/bin/activate
